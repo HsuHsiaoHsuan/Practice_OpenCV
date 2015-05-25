@@ -1,0 +1,1 @@
+/media/freeman/DATA_ZHENHAI/OpenCV_OCR/release/CMakeFiles/app.dir
